@@ -1,11 +1,25 @@
 .black_key {
     color: white;
     background-color: black;
-    height: 14em;
-    width: 4.5em;
+    height: 24%;
+    width: 6%;
 }
 
 [piano_key="true"] {
     display: inline-block;
     margin: 0.1em;
+}
+
+.white_key {
+    color: black;
+    outline-color: black;
+    height: 24%;
+    width: 8%;
+    outline-width: 1px;
+    outline-style: auto;
+}
+
+.Parent_Div {
+    height: 750px;
+    width: 750px;
 }
