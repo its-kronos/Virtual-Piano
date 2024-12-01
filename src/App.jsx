@@ -16,7 +16,7 @@ function App() {
     <White_Key note="A" keyboard_key="P"></White_Key>
     <Black_Key note="A#" keyboard_key="A"></Black_Key>
     <White_Key note="B" keyboard_key="S"></White_Key>
-    <White_Key note="C" keyboard_key="D"></White_Key>
+    <White_Key note="C^" keyboard_key="D"></White_Key>
   </div>
 }
 
